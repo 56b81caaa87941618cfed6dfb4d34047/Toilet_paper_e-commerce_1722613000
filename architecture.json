@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "Replace \"Contact\" with \"Elephant\""
+    },
+    {
+        "level": 1,
+        "task_description": "Replace \"Contact\" with \"Elephant\""
     }
 ]
