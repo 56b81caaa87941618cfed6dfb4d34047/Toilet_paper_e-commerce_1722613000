@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the word 'Elephant' to replace 'Contact' everywhere on the website or only in specific sections?\", \"option1\": \"Replace 'Contact' with 'Elephant' everywhere on the website\", \"option2\": \"Replace 'Contact' with 'Elephant' only in specific sections\"}, {\"question 2\": \"Should the link associated with the 'Contact' also change to a new functionality or redirection, reflecting the change to 'Elephant'?\", \"option1\": \"Yes, update the link functionality/redirection to match 'Elephant'\", \"option2\": \"No, keep the current link functionality/redirection as it is\"}], \"input_token_count\": 258, \"output_token_count\": 146, \"time_taken\": \"0:00:06.377101\"}",
+        "message_id": "guest02082024154149",
+        "timestamp": "02082024154156",
+        "component_file_name": "purple_header_component_1722613001",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "\"You got it, I'll replace 'Contact' with 'Elephant'.\"",
         "message_id": "guest02082024154149",
